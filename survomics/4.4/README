@@ -1,1 +1,8 @@
 https://ocbe-uio.github.io/survomics/survomics.html
+
+# On Ubuntu, run
+```
+sudo apt install libz-dev
+sudo apt install liblapack-dev libblas-dev
+sudo apt install libgsl0-dev
+```
